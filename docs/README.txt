@@ -1,15 +1,15 @@
-Documentazione di progetto
+DOCUMENTAZIONE DI PROGETTO
 
-Indice
+INDICE
 - Data Management Plan
 
-Data Management Plan
+DATA MANAGEMENT PLAN
 
-Nome del file
-dmp.md
+NOME DEL FILE
+data-management-plan.md
 
-Descrizione
+DESCRIZIONE
 Piano di gestione dei dati del progetto.
 
-Data di creazione
-2024-11-18
+DATA
+2024-11-21

@@ -1,15 +1,15 @@
-Dataset utilizzati
+DATASET UTILIZZATI
 
-Indice
+INDICE
 - Dataset Mythologiae
 
-Dataset Mythologiae
+DATASET MYTHOLOGIAE
 
-Nome del file
+NOME DEL FILE
 dataset_mythologiae.csv
 
-Descrizione
-Dataset contenente i dati degli oggetti appartenenti alla collezione Mythologiae
+DESCRIZIONE
+Dataset contenente i dati degli oggetti appartenenti alla collezione Mythologiae.
 
-Formato
+FORMATO
 CSV

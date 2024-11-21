@@ -1,9 +1,3 @@
-DATASET UTILIZZATI
-
-INDICE
-.Dataset Mythologiae
-.Bibliografia
-
 # DATASET UTILIZZATI
 
 ## INDICE

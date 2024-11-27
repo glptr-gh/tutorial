@@ -92,7 +92,9 @@ Dataset contenente i dati bibliografici estratti dalle citazioni presenti nella 
     * ...
 
 ### Fonti
-[Collezione Mythologiae](https://mythologiae.unibo.it/)
+- [Collezione Mythologiae](https://mythologiae.unibo.it/)
+- [Selezione di citazioni canoniche](https://docs.google.com/spreadsheets/d/1GBWW2AMO8HjXhyNB59CuC_aAx3X2aFl1uES5eHGLqos/edit?usp=sharing)
+
 
 ### Formato
 CSV

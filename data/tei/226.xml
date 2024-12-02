@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            Esercizio di marcatura: documento 226
+        </title>
+        <author xml:id="SB">
+          <persName>Sebastian Barzaghi</persName>
+          <idno type="ORCID">https://orcid.org/0000-0002-0799-1527</idno>
+        </author>
+        <respStmt>
+            <name>Sebastian Barzaghi</name>
+            <idno type="ORCID">https://orcid.org/0000-0002-0799-1527</idno>
+            <resp>encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Pubblicato su GitHub come esercizio di marcatura TEI.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Il testo è preso da una descrizione di un'opera presente nella collezione digitale Mythologiae.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="it">Italiano</language>
+      </langUsage>
+      <textClass>
+        <keyword scheme="subject">Cultural Heritage</keyword>
+        <keyword scheme="project type">Research</keyword>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-12-02" who="#SB">Creazione del file.</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+        Olio su tela di <measure type="height" value="186" unit="centimeters">186</measure> x <measure type="width" value="132" unit="centimeters">132 cm</measure>, realizzato da <ref type="person" target="https://www.wikidata.org/wiki/Q163543">François Gérard</ref> per il <ref type="organization" target="https://www.wikidata.org/wiki/Q262478">Salon</ref> del <date when="1798">1798</date> e acquistato dal <ref type="organization" target="https://www.wikidata.org/wiki/Q19675">Louvre</ref> nel <date when="1822">1822</date>. 
+    </body>
+  </text>
+</TEI>

@@ -22,9 +22,9 @@ Dataset contenente i dati degli oggetti appartenenti alla collezione Mythologiae
 * **Numero di righe**: ...
 * **Numero di colonne**: ...
 * **Colonne**:
-    * `dcho_id`	
-    * `dcho_title`
-    * `dcho_publication_date`	
+    * `dcho_id`: identificativo numerico unico, riferito alla rappresentazione digitale dell'opera;
+    * `dcho_title`: titolo della rappresentazione digitale dell'opera;
+    * `dcho_publication_date`: data di pubblicazione della rappresentazione digitale dell'opera;
     * `dcho_permalink`
     * `dcho_image_related`
     * `dcho_image_title`
@@ -40,14 +40,14 @@ Dataset contenente i dati degli oggetti appartenenti alla collezione Mythologiae
     * `dcho_curator_name`
     * `dcho_curator_surname`
     * `dcho_alias`
-    * `cho_title`
-    * `cho_author`
-    * `cho_description`
+    * `cho_title`: titolo dell'opera originale;
+    * `cho_author`: persona creatrice dell'opera originale;
+    * `cho_description`: descrizione dell'opera originale;
     * `cho_period`
     * `cho_century`
     * `cho_date`
-    * `cho_type`
-    * `cho_location`
+    * `cho_type`: tipologia dell'opera originale;
+    * `cho_location`: collocazione geografica 
     * `cho_note`
     * `cho_related`
     * `cho_sources_classic`

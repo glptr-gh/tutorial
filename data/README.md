@@ -3,6 +3,7 @@
 ## Indice
 1. [Dataset Mythologiae](#dataset-mythologiae)
 2. [Bibliografia](#bibliografia)
+3. [Dataset Keyword e Autori](#dataset-keyword-e-autori)
 
 ## Dataset Mythologiae
 

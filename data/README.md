@@ -107,3 +107,43 @@ Lista degli autori o contributori del dataset
 
 ### Contatti
 - Mail: <sebastian.barzaghi2@unibo.it>
+
+***
+
+## Dataset Keyword e Autori
+
+### Data di creazione
+2024-12-09
+
+### Ultimo aggiornamento
+2024-12-09
+
+### Nome del file
+`mythologiae_keyword_author.csv`
+
+### Descrizione
+Dataset contenente le parole chiave e i nomi degli autori delle opere presenti nella collezione Mythologiae.
+
+### Struttura
+* **Numero di righe**: 4389
+* **Numero di colonne**: 3
+* **Colonne**:
+    * `dcho_id`: identificativo della rappresentazione digitale dell'opera;
+    * `dcho_keyword`: liste di parole chiave assegnate alla rappresentazione digitale dell'opera e separate dalla virgola;
+    * `cho_author`: nomi completi (nella forma "\<COGNOME\>, \<NOME\>") dei creatori delle opere.
+
+### Fonti
+- [Collezione Mythologiae](https://mythologiae.unibo.it/)
+- [Selezione di colonne](https://docs.google.com/spreadsheets/d/1Gbzev9aD1z-uwklFN3ie92XA8dQdwI1hW7KFQX7OyN0/edit?usp=sharing)
+
+### Formato
+CSV
+
+### Licenza
+[CC-BY 4.0 - Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+
+### Autori
+- Sebastian Barzaghi
+
+### Contatti
+- Mail: <sebastian.barzaghi2@unibo.it>

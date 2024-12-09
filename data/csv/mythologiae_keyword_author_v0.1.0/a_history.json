@@ -1,0 +1,780 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "dcho_keyword",
+          "expression": "grel:facetCount(value, \"value\", \"dcho_keyword\")",
+          "columnName": "dcho_keyword",
+          "from": 10,
+          "to": 130,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "dcho_keyword",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Atena"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Atenae"
+      }
+    ],
+    "description": "Mass edit cells in column dcho_keyword"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "dcho_keyword",
+          "expression": "grel:facetCount(value, \"value\", \"dcho_keyword\")",
+          "columnName": "dcho_keyword",
+          "from": 10,
+          "to": 130,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "dcho_keyword",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Atenae"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Atena"
+      }
+    ],
+    "description": "Mass edit cells in column dcho_keyword"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "cho_author",
+          "expression": "grel:facetCount(value, \"value\", \"cho_author\")",
+          "columnName": "cho_author",
+          "from": 10,
+          "to": 420,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "autore sconosciuto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Autore sconosciuto"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "cho_author",
+          "expression": "grel:facetCount(value, \"value\", \"cho_author\")",
+          "columnName": "cho_author",
+          "from": 10,
+          "to": 420,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Autore Sconosciuto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Autore sconosciuto"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "cho_author",
+          "expression": "grel:facetCount(value, \"value\", \"cho_author\")",
+          "columnName": "cho_author",
+          "from": 10,
+          "to": 440,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "anonimo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anonimo"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "cho_author",
+          "expression": "grel:facetCount(value, \"value\", \"cho_author\")",
+          "columnName": "cho_author",
+          "from": 10,
+          "to": 440,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sconosciuto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Autore sconosciuto"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "cho_author",
+          "expression": "grel:facetCount(value, \"value\", \"cho_author\")",
+          "columnName": "cho_author",
+          "from": 10,
+          "to": 440,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sconosciuto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Autore sconosciuto"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dcho_keyword",
+          "expression": "value",
+          "columnName": "dcho_keyword",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Atena",
+                "l": "Atena"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "dcho_keyword",
+          "expression": "grel:facetCount(value, \"value\", \"dcho_keyword\")",
+          "columnName": "dcho_keyword",
+          "from": 10,
+          "to": 130,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "cho_author",
+          "expression": "grel:facetCount(value, \"value\", \"cho_author\")",
+          "columnName": "cho_author",
+          "from": 20,
+          "to": 370,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Anonimo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Autore sconosciuto"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Spruance, Benton Murdoch",
+          "Spruance,  Benton  Murdoch",
+          "Spruance,  Benton Murdoch",
+          "Spruance, Benton  Murdoch"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Spruance, Benton Murdoch"
+      },
+      {
+        "from": [
+          "De Chirico, Giorgio",
+          "Chirico, Giorgio de",
+          "de Chirico, Giorgio",
+          "De Chirico, Giorgio, Giorgio"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Chirico, Giorgio"
+      },
+      {
+        "from": [
+          "Gellée, Claude",
+          "Gellee, Claude",
+          "Gellèe, Claude"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gellée, Claude"
+      },
+      {
+        "from": [
+          "De Vries, Adriaen",
+          "Vries de, Adriaen",
+          "de Vries, Adriaen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Vries, Adriaen"
+      },
+      {
+        "from": [
+          "Van Baburen, Dirck",
+          "Baburen, Dirck van",
+          "van Baburen, Dirck"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Baburen, Dirck"
+      },
+      {
+        "from": [
+          "di Cosimo, Piero",
+          "Di Cosimo, Piero",
+          "Piero di Cosimo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "di Cosimo, Piero"
+      },
+      {
+        "from": [
+          "Heintz, Joseph (il Vecchio)",
+          "Heintz , Joseph (il Vecchio)",
+          "Heintz il Vecchio, Joseph"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heintz, Joseph (il Vecchio)"
+      },
+      {
+        "from": [
+          "Von Aachen, Hans",
+          "Aachen, Hans von",
+          "von Aachen, Hans"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Von Aachen, Hans"
+      },
+      {
+        "from": [
+          "",
+          "/"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      },
+      {
+        "from": [
+          "De Passe The Elder, Crispijn",
+          "de Passe the Elder, Crispijn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Passe The Elder, Crispijn"
+      },
+      {
+        "from": [
+          "De' Roberti, Ercole",
+          "de' Roberti, Ercole"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De' Roberti, Ercole"
+      },
+      {
+        "from": [
+          "Campagna, Girolamo",
+          "Girolamo Campagna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Campagna, Girolamo"
+      },
+      {
+        "from": [
+          "Lenckhardt , Adam",
+          "Lenckhardt, Adam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lenckhardt , Adam"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Autore anonimo",
+          "Autore Anonimo",
+          "autore anonimo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NULL"
+      },
+      {
+        "from": [
+          "Artista Sconosciuto",
+          "Artista sconosciuto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NULL"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/multivalued-cell-split",
+    "columnName": "dcho_keyword",
+    "keyColumnName": "dcho_id",
+    "mode": "separator",
+    "separator": ",",
+    "regex": false,
+    "description": "Split multi-valued cells in column dcho_keyword"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "dcho_keyword",
+    "keyColumnName": "dcho_id",
+    "separator": "|",
+    "description": "Join multi-valued cells in column dcho_keyword"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://refine.codefork.com/reconcile/viaf",
+      "identifierSpace": "http://rdf.freebase.com/ns/user/hangy/viaf",
+      "schemaSpace": "http://rdf.freebase.com/ns/type.object.id",
+      "type": {
+        "id": "/people/person",
+        "name": "Person"
+      },
+      "autoMatch": true,
+      "batchSize": 10,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column cho_author to type /people/person"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "similarValue": "Gérard, François Baron",
+    "judgment": "matched",
+    "match": {
+      "id": "46776048",
+      "name": "Gérard, François, 1770-1837",
+      "types": [
+        "/people/person"
+      ],
+      "score": 0.6296296296296297
+    },
+    "shareNewTopics": false,
+    "description": "Match item Gérard, François, 1770-1837 (46776048) for cells containing \"Gérard, François Baron\" in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "École de Le Moyne, François"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "École de Le Moyne François"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "similarValue": "Ixion Painter",
+    "judgment": "matched",
+    "match": {
+      "id": "95804337",
+      "name": "Ixion painter",
+      "types": [
+        "/people/person"
+      ],
+      "score": 0.9230769230769231
+    },
+    "shareNewTopics": false,
+    "description": "Match item Ixion painter (95804337) for cells containing \"Ixion Painter\" in column cho_author"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "similarValue": "Amasis Painter",
+    "judgment": "new",
+    "shareNewTopics": true,
+    "description": "Mark to create one single new item for all cells containing \"Amasis Painter\" in column cho_author"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "similarValue": "Prou, Jacques",
+    "judgment": "matched",
+    "match": {
+      "id": "225756073",
+      "name": "Prou, Jacques, 1655-1706",
+      "types": [
+        "/people/person"
+      ],
+      "score": 0.5416666666666666
+    },
+    "shareNewTopics": false,
+    "description": "Match item Prou, Jacques, 1655-1706 (225756073) for cells containing \"Prou, Jacques\" in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pittore di Suessula"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Suessula painter"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cho_author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sargent, John Singer",
+          "John Singer Sargent",
+          "Singer Sargent, John"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sargent, John Singer"
+      },
+      {
+        "from": [
+          "Palagi, Pelagio",
+          "Pelagio, Palagi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Palagi, Pelagio"
+      },
+      {
+        "from": [
+          "Cornelis, Cort",
+          "Cort, Cornelis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cort, Cornelis"
+      },
+      {
+        "from": [
+          "Andra, J.C.",
+          "Andrä, J.C."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andra, J.C."
+      },
+      {
+        "from": [
+          "Reymond, Pierre",
+          "Pierre Reymond"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reymond, Pierre"
+      },
+      {
+        "from": [
+          "Otto van Veen",
+          "van Veen, Otto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Veen, Otto"
+      },
+      {
+        "from": [
+          "Spranger, Bartholomäus",
+          "Spranger,  Bartholomäus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Spranger, Bartholomäus"
+      },
+      {
+        "from": [
+          "Thorvaldsen, Bertel",
+          "Bertel, Thorvaldsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thorvaldsen, Bertel"
+      },
+      {
+        "from": [
+          "Dyck, Anton van",
+          "Van Dyck, Anton"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Dyck, Anton"
+      },
+      {
+        "from": [
+          "Marqueste, Laurent-Honoré",
+          "Marqueste,  Laurent-Honoré"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marqueste, Laurent-Honoré"
+      }
+    ],
+    "description": "Mass edit cells in column cho_author"
+  },
+  {
+    "op": "core/multivalued-cell-split",
+    "columnName": "dcho_keyword",
+    "keyColumnName": "dcho_id",
+    "mode": "separator",
+    "separator": "|",
+    "regex": false,
+    "description": "Split multi-valued cells in column dcho_keyword"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "dcho_keyword",
+          "expression": "grel:facetCount(value, \"value\", \"dcho_keyword\")",
+          "columnName": "dcho_keyword",
+          "from": 0,
+          "to": 130,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "dcho_keyword",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Giove",
+          "Giove(?)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Giove"
+      },
+      {
+        "from": [
+          "Marte e Venere",
+          "Venere e Marte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marte e Venere"
+      }
+    ],
+    "description": "Mass edit cells in column dcho_keyword"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "dcho_keyword",
+    "keyColumnName": "dcho_id",
+    "separator": "|",
+    "description": "Join multi-valued cells in column dcho_keyword"
+  }
+]

@@ -4,6 +4,7 @@
 1. [Dataset Mythologiae](#dataset-mythologiae)
 2. [Bibliografia](#bibliografia)
 3. [Dataset Keyword e Autori](#dataset-keyword-e-autori)
+4. [Dataset Note e Descrizioni](#dataset-note-e-descrizioni)
 
 ## Dataset Mythologiae
 
@@ -136,6 +137,45 @@ Dataset contenente le parole chiave e i nomi degli autori delle opere presenti n
 ### Fonti
 - [Collezione Mythologiae](https://mythologiae.unibo.it/)
 - [Selezione di colonne](https://docs.google.com/spreadsheets/d/1Gbzev9aD1z-uwklFN3ie92XA8dQdwI1hW7KFQX7OyN0/edit?usp=sharing)
+
+### Formato
+CSV
+
+### Licenza
+[CC-BY 4.0 - Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+
+### Autori
+- Sebastian Barzaghi
+
+### Contatti
+- Mail: <sebastian.barzaghi2@unibo.it>
+
+***
+
+## Dataset Note e Descrizioni
+
+### Data di creazione
+2024-12-11
+
+### Ultimo aggiornamento
+2024-12-11
+
+### Nome del file
+`mythologiae_note_description.csv`
+
+### Descrizione
+Dataset contenente le note e le descrizioni delle opere presenti nella collezione Mythologiae.
+
+### Struttura
+* **Numero di righe**: 4389
+* **Numero di colonne**: 2
+* **Colonne**:
+    * `cho_note`: note associate all'opera;
+    * `cho_description`: descrizione dell'opera.
+
+### Fonti
+- [Collezione Mythologiae](https://mythologiae.unibo.it/)
+- [Selezione di colonne](https://docs.google.com/spreadsheets/d/1v-H6uYEuJUE_1Jh7SOq4Dyhh6So1tdQU9kN7PuAFFGk/edit?usp=sharing)
 
 ### Formato
 CSV

@@ -1,7 +1,4 @@
 # Template utilizzati
 
 ## Indice
-- [TEI Description](#tei-description)
-
-## TEI Description
-Template utilizzato per codificare in TEI le descrizioni delle opere.
+- `tei-description-template.xml`: template utilizzato per codificare in TEI le descrizioni delle opere.

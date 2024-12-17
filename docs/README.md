@@ -1,9 +1,3 @@
----
-title: Titolo del progetto
-authors: [Nome, Cognome]
-
----
-
 # Titolo del progetto
 
 ## Indice

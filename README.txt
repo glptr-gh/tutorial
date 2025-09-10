@@ -1,23 +1,19 @@
-# Nome
+# Mythologiae Data Management
 
 ## Descrizione
-Il cosa, perché e come del progetto. Qual'è 
-la motivazione? Quale problema stiamo risolvendo? 
-Cosa abbiamo imparato?
+Progetto di prova per il corso Digital Humanities e Data Management per i Beni Culturali dell'Università di Bologna
 
 ## Fonti
-Link alle fonti dei dati utilizzati
+https://mythologiae.unibo.it/
 
 ## Metodi e strumenti
 Metodologie e/o strumenti utilizzati
 
 ## Credits
-Contatti di tutte le persone coinvolte
+Gianluca Petrosillo
 
 ## Licenza
-Etichetta e link alla licenza
+CC BY 4.0
 
 ## Changelog
-Sezione dove teniamo traccia di quello che 
-abbiamo fatto e delle modifiche avvenute 
-(prima la più recente)
+2025-09-10: creazione README.txt

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            Esercizio di marcatura: documento [274]
+        </title>
+        <author xml:id="SB">
+          <persName>Sebastian Barzaghi</persName>
+          <idno type="ORCID">https://orcid.org/0000-0002-0799-1527</idno>
+        </author>
+        <respStmt>
+            <name>Gianluca Petrosillo</name>
+            <idno type="ORCID">https://orcid.org/0009-0002-2249-1894</idno>
+            <resp>encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Pubblicato su GitHub come esercizio di marcatura TEI.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Il testo è preso da una descrizione di un'opera presente nella collezione digitale Mythologiae.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="it">Italiano</language>
+      </langUsage>
+      <textClass>
+        <keyword scheme="subject">Cultural Heritage</keyword>
+        <keyword scheme="project type">Research</keyword>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-12-02" who="#SB">Creazione del file.</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+        Sarcofago in marmo alto <measure type="height" value="97" unit="centimeters"> 97 cm </measure>, largo <measure type ="width" value="209" unit="centimeters"> 209 cm </measure> e profondo <measure type="depth" value="61" unit="centimeters"> 61 cm </measure>, rinvenuto in una tomba a <ref type="place" target="https://www.wikidata.org/wiki/Q457662"> Saint-Médard-d'Eyrans </ref>, presso <ref type="place" target="https://www.wikidata.org/wiki/Q1479"> Bordeaux </ref> nel <date when="1805"> 1805 </date>. Acquisito dal <ref type="organization" target="https://www.wikidata.org/wiki/Q19675"> Louvre </ref> nel <date when="1817"> 1817 </date>. L'episodio mitico rappresentato riguarda l'incontro tra <ref type="character" target="https://www.wikidata.org/wiki/Q41680"> Dioniso </ref>, accompagnato dal suo selvaggio  e chiassoso corteo, e la principessa <ref type="place" target="https://www.wikidata.org/wiki/Q34374"> cretese </ref> <ref type="character" target="https://www.wikidata.org/wiki/Q184874"> Arianna </ref>, abbandonata sull'isola greca di <ref type="place" target="https://www.wikidata.org/wiki/Q188527"> Naxos </ref> da <ref type="character" target="https://www.wikidata.org/wiki/Q1320718"> Teseo </ref>. <ref type="character" target="https://www.wikidata.org/wiki/Q41680"> Bacco </ref> si innamora a prima vista della donna e salta dal suo carro verso di lei. 
+    </body>
+  </text>
+</TEI>
